@@ -17,5 +17,6 @@ public class Circle extends ShapeFactoryMethod {
 
     @Override
     public void fillColor(){
-        System.out.println("filing circle");    }
+        System.out.println("filing circle");
+        color.fillColor();}
 }

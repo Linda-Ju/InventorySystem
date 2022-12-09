@@ -3,8 +3,6 @@ package org.example;
 import java.util.Random;
 
 public class Factory {
-    //private Random random = new Random();
-
 
     public ShapeFactoryMethod createShape(String shape) {
 

@@ -11,6 +11,11 @@ public abstract class ShapeFactoryMethod {
     protected ShapeFactoryMethod() {
     }
 
+    //factory method
     public abstract void draw();
-     abstract public void fillColor();
+
+    //Bridge
+    public abstract void fillColor();
+
+
 }

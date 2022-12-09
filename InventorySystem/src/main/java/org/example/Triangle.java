@@ -9,7 +9,6 @@ public class Triangle extends ShapeFactoryMethod{
     @Override
     public void draw() {
         System.out.println("Triangle");
-        color.fillColor();
     }
 
     @Override
